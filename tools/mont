@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /lrnl/
+cd '/lrnl/'
 echo mnt disk?
 read $moutdsk
 echo numb disk?
