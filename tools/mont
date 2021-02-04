@@ -1,0 +1,6 @@
+#!/bin/sh
+echo mnt disk?
+read $moutdsk
+echo numb disk?
+read $disknmb
+mount $moutdsk /lrnl/lernel/
